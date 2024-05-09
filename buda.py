@@ -59,7 +59,7 @@ transactions = getTransactions(marketId,lastTimestamp,firstTimestamp)
 df = createDataFrame(transactions)
 
 totalTraded = calculateTotalValueTraded(df)
-print("totalTraded at black buda:",totalTraded)
+print("totalTraded at black buda:",totalTraded,"\n")
 
 
 #Año pasado
