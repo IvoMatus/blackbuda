@@ -32,3 +32,10 @@ Para ejecutar el código, utiliza el siguiente comando:
 ```bash
 python .\buda.py
 ```
+
+##Troubleshooting
+Si tienes un error como *cannot import name 'appengine' from 'requests.packages.urllib3.contrib'* entonces:
+```bash
+pip install --upgrade requests-toolbelt
+```
+y vuelve a ejecutar :)
