@@ -2,7 +2,7 @@
 # Blackbuda
 
 ## Descripción
-Este código realiza análisis de datos. El proceso incluye la carga, limpieza, y análisis de datos para obtener insights relevantes.
+Este código realiza análisis de datos. El proceso incluye la carga, limpieza, y análisis de datos para obtener insights relevantes en el cuestionario entregado.
 
 ## Instalación
 Sigue estos pasos para instalar las librerías necesarias:
